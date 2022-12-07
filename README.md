@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👩‍💻,  I'm Sofia Sung <br><br> </h1>
 
 - 👉 My portfolio [click here](https://www.sofiasung.com/portfolio)
-   (It will take you a second to load for the first time. If failed, please visit [static version](https://www.sofiasung.com/portfolio))
 - 👀 I’m interested in **Web Frontend**
 - 🌱 I’m currently learning **React**
 - ✨ I’m currently working on my graduation project
