@@ -2,7 +2,7 @@
 
 - 👉 My portfolio [click here](https://www.sofiasung.com/)
 - 👀 I’m interested in **Web Frontend**
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** & **Vue**
 - ✨ I’m currently working on my graduation project
 
 <br>
